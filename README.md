@@ -1,5 +1,5 @@
 # Front-end-Assessment-
-front-end assessment demo
+desktop demo
 
 ![](5ieins.gif)
 
