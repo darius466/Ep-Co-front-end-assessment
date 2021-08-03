@@ -11,7 +11,9 @@ section one anchor, carousel, and mobile demo
 full video
 <br>
 
-https://user-images.githubusercontent.com/55506065/127938780-0f9af42d-4b52-4303-8976-96f57d3e7b48.mp4
+https://user-images.githubusercontent.com/55506065/127939078-affe08f1-f955-49b8-84a9-6944822ca7de.mp4
+
+
 
 
 
