@@ -100,7 +100,7 @@ html {
 .sed {
     /* Sed odio velit, tempus ut vehicula at, finibus eget mauris. Suspendisse eget eros arcu. Donec semper, mi a sollicitudin maximus, nibh dui egestas neque, at efficitur libero ante id lacus. Sed ut vestibulum neque. */
     position: relative;
-    width: 539px;
+    width: 545px;
     height: 104px;
     /*left: 414px;*/
     top: -640px;
@@ -113,6 +113,7 @@ html {
     /* or 153% */
     text-align: center;
     margin: 5px auto;
+    display: flex;
 
     color: var(--sec-bg-color);
     text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.7);
@@ -120,7 +121,7 @@ html {
 
 .arrow {
     position: absolute;
-    top: 39%;
+    top: 41%;
     right: 49.2%;
     box-sizing: border-box;
     height: 1vw;
@@ -321,7 +322,7 @@ html {
     position: absolute;
     width: 541px;
     height: 130px;
-    bottom: -155px;
+    bottom: -165px;
 
     color: #333333;
 }
@@ -428,7 +429,7 @@ html {
     width: 537px;
     height: 52px;
     bottom: 25px;
-    right: 120px;
+    right: 163px;
 
     text-align: center;
 
@@ -440,7 +441,7 @@ html {
     position: absolute;
     width: 183px;
     height: 42.88px;
-    right: 72.9%;
+    right: 75.1%;
     top: 270px;
 
     color: #367C2B;
@@ -622,7 +623,7 @@ html {
 
     .arrow {
         position: absolute;
-        top: 50%;
+        top: 52%;
         right: 48%;
         box-sizing: border-box;
         height: 4vw;
@@ -698,7 +699,7 @@ html {
         width: 335px;
         height: 130px;
         left: 940px;
-        top: 1366px;
+        top: 1378px;
         bottom: -155px;
     
         font-size: 17px;
@@ -791,7 +792,7 @@ html {
         position: absolute;
         width: 335px;
         height: 130px;
-        bottom: -210px;
+        bottom: -216px;
     
         font-size: 17px;
         line-height: 26px;
@@ -818,7 +819,7 @@ html {
         position: absolute;
         width: 435px;
         height: 124px;
-        left: 27%;
+        left: 29%;
         top: 2700px;
     }
     
